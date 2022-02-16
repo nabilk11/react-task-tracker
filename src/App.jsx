@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="container">
       <div className="components">
-        <Header title='Hello'/>
+        <Header title='Task Tracker'/>
       </div>
     </div>
   );
